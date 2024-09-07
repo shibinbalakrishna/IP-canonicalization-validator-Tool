@@ -36,5 +36,5 @@ data manipulation, or unintended operations.
          
          Log the results based on the comparison:
            If matching or specific conditions are met (e.g., Cloudflare detected, status codes match/mismatch).
-Result
+Result:
     The tool detected discrepancies between IP addresses and domain names in the analyzed subdomains'
